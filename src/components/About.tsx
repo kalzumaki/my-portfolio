@@ -9,8 +9,7 @@ const About: React.FC = () => {
             About Me
           </h3>
           <p className="text-gray-600 leading-relaxed">
-            I am a dedicated developer with expertise in [mention your
-            technologies]. With a passion for [mention your areas of interest],
+            I am a dedicated developer with expertise in Front and Back-End Development. With a passion for App and Web Development,
             I strive to build products that make a difference.
           </p>
         </div>
